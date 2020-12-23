@@ -9,3 +9,5 @@ This repo has the code for meme generator , you can generate your own memes by t
     "deploy": "gh-pages -d build"
     }
     
+> npm run deploy to publish your changes 
+    
